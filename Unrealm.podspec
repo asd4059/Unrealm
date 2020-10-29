@@ -35,5 +35,5 @@ Works perfect with Codables and Optionals!
   s.source_files = 'Unrealm/Classes/**/*.{h,m,swift}'
 
   s.dependency 'RealmSwift', '~> 10.1'
-  s.dependency 'RuntimeNew', '2.1.5'
+  s.dependency 'RuntimeNew', '~> 2.1'
 end
